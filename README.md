@@ -13,6 +13,7 @@ If that does not resolve your issue, please post to the [discussion board for th
 
 NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
-DG Note:
+# DG Note:
 I did not get the code working in AMP - Final so copied the code from Pluralsight to a new directory AMP
 This works and I am updateing it as I follow the pluralsight course
+ ## ALSO NOTE THAT I AM USING THE TRAINING BRANCH!
